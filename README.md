@@ -8,6 +8,6 @@
 
 #### A continuación se muestra una impresión de la misma:
 
-![](../../Desktop/Base de datos.jpg)
+[![123.png](https://i.postimg.cc/RFkJxbd8/123.png)](https://postimg.cc/ZBL5rH1F)
 
 >***"Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza" - Paul Leary***
